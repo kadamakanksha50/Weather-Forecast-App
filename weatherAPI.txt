@@ -1,0 +1,3 @@
+ca74834dac53d7f674bfe4854c6ff83d
+https://api.openweathermap.org/data/2.5/weather?q=solapur&appid=ca74834dac53d7f674bfe4854c6ff83d
+
